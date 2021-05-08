@@ -20,4 +20,4 @@ Greatest Decreases:$Profit/Losses   -2196167.0
 
 Name: Sep-2013, dtype: float64
 
-*Note: Please see "main1.ipynb"*
+*Note: All details are in PyBank Folder*
