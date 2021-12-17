@@ -1,6 +1,7 @@
 ## python-homework
 #Homework 2
 
+This acitivity is to be tasked with creating a Python script for analyzing the financial records of your company. The financial dataset is in this file: budget_data.csv. This dataset is composed of two columns, Date and Profit/Losses. 
 
 **Financial Analysis**
 
